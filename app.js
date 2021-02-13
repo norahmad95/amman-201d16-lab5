@@ -84,7 +84,6 @@ function sumArray(sumArr) {
     let sum = 0;
     for (let i = 0; i < testArray.length; i++) {
         sum += testArray[i];
-
     }
     return [sum, 'the sum of array elements of array is' + sum];
 }
