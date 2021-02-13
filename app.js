@@ -89,8 +89,8 @@ function sumArray(sumArr) {
     return [sum, 'the sum of array elements of array is' + sum];
 }
 
-console.log(testArray)
-    // Here is the test for sumArray(); uncomment it to run it
+console.log(testArray);
+// Here is the test for sumArray(); uncomment it to run it
 
 testSumArray(testArray);
 
